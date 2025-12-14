@@ -59,7 +59,7 @@ Report is also Attached
 
 🚀 How to Use
 
-Download the .pbix file
+Download the .pbix file 
 Open it using Power BI Desktop
 Interact with filters and visuals to explore insights   
 
