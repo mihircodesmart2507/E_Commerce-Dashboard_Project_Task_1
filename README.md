@@ -32,6 +32,24 @@ Time-based trend analysis
 User-friendly slicers and filters      
 
 
+📊 Key Insights from the E-Commerce Dashboard
+
+1️⃣ Top Revenue Contributors
+A small set of products and categories contribute the majority of total revenue, indicating a strong Pareto (80/20) effect. These products should be prioritized for inventory and promotions.
+
+2️⃣ Regional Performance Variation
+Certain regions consistently outperform others in sales and profit, while some regions show low sales despite high order volumes, indicating pricing or logistics inefficiencies.
+
+3️⃣ Customer Segment Profitability
+Specific customer segments generate higher profit margins even with fewer orders, suggesting targeted marketing toward high-value customers can improve overall profitability.
+
+4️⃣ Seasonal Sales Trends
+Sales peak during specific months or seasons, highlighting opportunities for timed promotions and inventory planning.
+
+5️⃣ High Sales, Low Profit Products
+Some products show high sales volume but low or negative profit due to heavy discounts or high costs, signaling the need for price optimization.
+
+
 📂 File Information
 
 ECommerceDashboard.pbix – Power BI dashboard file   
