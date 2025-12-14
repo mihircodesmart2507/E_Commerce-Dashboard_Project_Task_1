@@ -75,3 +75,11 @@ Customer segments contributing most to profit
 📬 Conclusion  
 
 This project demonstrates the effective use of Power BI for analyzing and visualizing e-commerce sales data. The dashboard helps identify key trends, high-performing products, and profitable customer segments. It enables data-driven decision-making through clear insights and interactive visuals.
+
+
+# TeamWork 
+
+Mihir Aryan Mishra- Data Cleaning and Gives Idea of Key metrics. 
+Rushikesh Lohe -  Made the Dashboard 
+Amitesh Dhal- Made the Project Report 
+Sai Venkata Santosh Behara-  Manages the Data
